@@ -1,0 +1,7 @@
+2026-02-08 17:44:24,427 - INFO - ETL process started.
+2026-02-08 17:44:24,427 - INFO - Fetching data from https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+2026-02-08 17:44:27,376 - INFO - Initial Table extracted
+2026-02-08 17:44:27,378 - INFO - Final dataset rows: 191
+2026-02-08 17:44:27,378 - INFO - Data transformed successfully.
+2026-02-08 17:44:27,393 - INFO - Data loaded successfully.
+2026-02-08 17:44:27,403 - INFO - Database connection closed.
